@@ -2,4 +2,4 @@
 - 👀 I’m interested in Networking, firewall, AWS, Azure
 - 🌱 I’m currently learning bashscripts, AWS, Azure and Data storages
 - 💞️ I’m looking to collaborate CyberSecurity learning
-- 📫 How to reach me on GITHUB PROFILE
+- 📫 Reach me on GITHUB PROFILE
